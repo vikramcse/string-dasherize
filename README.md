@@ -10,7 +10,7 @@ $ npm install --save string-dasherize
 ## Example
 
 ```js
-var stringDasherize = require('./index.js');
+var stringDasherize = require('string-dasherize');
 console.log(stringDasherize('FrontEnd'));
 
 // -> -front-end
